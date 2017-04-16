@@ -1,7 +1,7 @@
 {
-  "name": "testvue",
+  "name": "Vue SPA",
   "version": "1.0.0",
-  "description": "test",
+  "description": "Vue SPA",
   "author": "tchen",
   "private": true,
   "scripts": {
